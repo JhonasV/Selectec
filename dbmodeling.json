@@ -1,0 +1,26 @@
+{
+  "user": {
+    "names": "Nelson Jhonas",
+    "lastnames": "Veras Amador",
+    "userType": "id"
+  },
+  "userTypes": {
+    "name": "student or teacher"
+  },
+  "careers": {
+    "id": "1",
+    "name": "Ingenieria de Software",
+    "subjects": []
+  },
+  "subjects": {
+    "id": "1",
+    "name": "Verificacion y validacion de software",
+    "quater": ""
+  },
+  "studentSubject": {
+    "subject": "1",
+    "student": "1",
+    "completed": false,
+    "coursed": false
+  }
+}
