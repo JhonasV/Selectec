@@ -1,0 +1,17 @@
+.home-wrapper {
+  background-color: #fff;
+  padding: 1em;
+}
+
+.home-title {
+  border-bottom: 1px solid #eee;
+}
+
+.steps-home {
+  cursor: pointer;
+}
+
+.steps-home:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: #fff;
+}
