@@ -49,8 +49,12 @@ export function UserProvider(props) {
         return true;
       }
     } catch (error) {
-      if (error.response.status === 401) {
-        setAlert({ type: "danger", message: error.response.data.message });
+      if (error.response.status) {
+        if (error.response.status === 401) {
+          setAlert({ type: "danger", message: error.response.data.message });
+        }
+      } else {
+        setAlert({ type: "danger", message: error.toString() });
       }
     }
     setLoadingLogin(false);

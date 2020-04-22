@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
 // components
-import LoginForm from "./../../components/LoginForm";
-import Alert from "./../../components/Alert";
+import LoginForm from "../../components/LoginForm";
+import Alert from "../../components/Alert";
 import { useHistory } from "react-router-dom";
 
 // hooks
