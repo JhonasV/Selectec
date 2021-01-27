@@ -1,5 +1,7 @@
 # Selectec
 College module for matriculation
+## Status
+Uncompleted
 
 ## Installation
 
