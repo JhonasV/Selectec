@@ -1,9 +1,9 @@
 # Selectec
 College module for matriculation
-## Status
-Uncompleted
+## Development Status
+Uncompleted - Open to contributions
 
-### Technologies
+## Technologies
 
 - ReactJs
 
