@@ -3,6 +3,19 @@ College module for matriculation
 ## Status
 Uncompleted
 
+### Technologies
+
+- ReactJs
+
+  - Bootstrap (Botswatch theme `Material`)
+  - Context-API
+
+- NodeJs
+
+  - ExpressJs
+  - MongoDB
+  - JWT
+
 ## Installation
 
 Use the next command in root folder and clientapp
